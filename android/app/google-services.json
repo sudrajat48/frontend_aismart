@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "978413628883",
+    "project_id": "aismart-b4e0b",
+    "storage_bucket": "aismart-b4e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978413628883:android:d710aced6f8c7744c5d326",
+        "android_client_info": {
+          "package_name": "com.aismart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978413628883-9rrcb58empkmf2f60g6tg7gt5acdmgom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aismart.app",
+            "certificate_hash": "13e78912c84b343dc2ab1b021d0700fba8f010ac"
+          }
+        },
+        {
+          "client_id": "978413628883-fv6ohrs1n8eok9t63elslm026k261t1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aismart.app",
+            "certificate_hash": "27b496bfff4df9a4ebf178fdea900cb4d4d7d9ad"
+          }
+        },
+        {
+          "client_id": "978413628883-llhgetgtptq0j34b7srn7a6uhr7179tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aismart.app",
+            "certificate_hash": "d99e1b60d615912b65ee38b57a3629831dffe0c4"
+          }
+        },
+        {
+          "client_id": "978413628883-gqogodgsfciujmnvabupj7o5nn3c27bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWAtMupuRaI7amPmDek1N7IgUEzltZ35I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978413628883-gqogodgsfciujmnvabupj7o5nn3c27bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
